@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2021<br>📚 I'm currently learning Svelte and Sveltekit</p>
+<p align="left">✨ Programming since 2021</p>
 
 ###
 
