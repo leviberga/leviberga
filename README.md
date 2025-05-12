@@ -7,8 +7,6 @@
 
 - 💡 Passionate about tech, design, and problem-solving  
 - 🧱 Programming since **2021**  
-- 🔭 Currently learning and building with **Next.js**, **TypeScript**, **TailwindCSS** and more!  
-- 🌱 Also exploring **backend**, **automation** and **game dev**  
 - 📍 Based in **São Paulo, Brazil**
 
 ---
