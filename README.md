@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=levibergai&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leviberga&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviberga&layout=compact&theme=radical" />
 </div>
 
